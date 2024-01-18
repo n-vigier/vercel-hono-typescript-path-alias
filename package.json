@@ -3,6 +3,7 @@
     "start": "vercel dev",
     "deploy": "vercel"
   },
+  "type": "module",
   "dependencies": {
     "hono": "^3.12.5"
   },

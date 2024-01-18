@@ -12,8 +12,8 @@
       "@service/*": [
         "./api/services/*"
       ],
-      "@route/*": [
-        "./api/routes/*"
+      "@auth/*": [
+        "./api/auth/*"
       ]
     }
   },
